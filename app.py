@@ -9,7 +9,7 @@ from google import genai
 warnings.filterwarnings("ignore")
 
 # Konfigurasi API Gemini (SDK Baru)
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyA0jqFZPKVZFiBGNi3rFWjhBkKFOnMwmGA")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "API_KEY_GEMINI")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 # --- WADAH KOSONG UNTUK LAZY LOADING WHISPER ---
