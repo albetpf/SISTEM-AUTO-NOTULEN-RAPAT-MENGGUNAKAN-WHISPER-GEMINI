@@ -1,0 +1,11 @@
+=== RINGKASAN & ACTION ITEMS ===
+Berdasarkan transkripsi yang diberikan, berikut adalah ringkasan dan action item:
+
+**1. Ringkasan Eksekutif:**
+*   Diskusi fokus pada implementasi atau penggunaan sistem notulensi rapat otomatis (auto-notulen) yang memanfaatkan teknologi Whisper.
+
+**2. Action Items:**
+*   Tidak ada action item spesifik atau tugas yang perlu dilakukan selanjutnya yang disebutkan dalam transkripsi ini.
+
+=== TRANSKRIPSI MENTAH ===
+ Ini adalah pemediain sistem auto-natulian rapat menggunakan whisper dalam inden ini.
